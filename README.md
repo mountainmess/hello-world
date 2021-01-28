@@ -1,2 +1,2 @@
 # hello-world
-Practice
+Learning the stuff.
